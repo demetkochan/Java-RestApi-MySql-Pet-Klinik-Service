@@ -8,14 +8,9 @@ Pet Klinik RestApi, daha önce yapılan Spring MVC Pet Klinik projesinin servisl
 | Mail | Şifre | Kullanıcı Rolü |
 | ------------- |:-------------:|:-------------:|
 | ali@mail.com | 12345 | ROLE_CUSTOMER |
-| veli@mail.com | 12345 | ROLE_CUSTOMER|
-| demet@mail.com | 12345 | ROLE_CUSTOMER |
-| kenan@mail.com| 12345 | ROLE_DOCTOR |
-| zehra@mail.com | 12345 | ROLE_ADMIN |
-| serkan@mail.com | 12345 | ROLE_DOCTOR |
-| ilayda@mail.com | 12345 | ROLE_DOCTOR |
-| serkan@mail.com | 12345 | ROLE_DOCTOR |
-| ezgi@mail.com | 12345 | ROLE_ADMIN |
+| kenan@mail.com| 12345 | ROLE_DOCTOR (Doktor lab sayfasına erişebilir) |
+| zehra@mail.com | 12345 | ROLE_ADMIN (Admin ajanda sayfasına erişebilir) |
+
 
 
 ## Kullanılan Diller ve Yetenekler
